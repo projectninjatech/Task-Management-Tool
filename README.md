@@ -6,4 +6,4 @@ Streamline Your Life: Build a Next-Level Task Management Tool
 
 
 Tutorial -
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/0TEmYmSBCFM)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0TEmYmSBCFM/0.jpg)](https://youtu.be/0TEmYmSBCFM)
